@@ -4,3 +4,7 @@ Type option
 vibrant
 dark mode 
 video Feature
+
+payment   option 
+send money 
+get Money
